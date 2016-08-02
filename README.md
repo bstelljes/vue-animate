@@ -25,6 +25,12 @@ Include the stylesheet:
   ```js
   require('vue-animate/dist/vue-animate.min.css')
   ```
+
+####bower
+  ```shell
+  bower install --save vue-animate
+  ```
+
 ####Less
   ```less
   @import "<PATH_TO_SOURCE>/src/vue-animate.less";

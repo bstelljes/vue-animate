@@ -1,0 +1,30 @@
+{
+  "name": "vue-animate",
+  "version": "0.0.5",
+  "description": "LESS cross-browser animation library, for use with Vue.js. Ported from Animate.css.",
+  "authors": [
+    "Hayden Bickerton <haydenbbickerton@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haydenbbickerton/vue-animate.git"
+  },
+  "main": "dist/vue-animate.css",
+  "bugs": {
+    "url": "https://github.com/haydenbbickerton/vue-animate/issues"
+  },
+  "keywords": [
+    "less",
+    "animate",
+    "animate.css",
+    "vue",
+    "vue.js",
+    "transition",
+    "vue-animate",
+    "css"
+  ],
+  "ignore": [
+    "src"
+  ]
+}
